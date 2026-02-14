@@ -118,5 +118,5 @@ This project helped me practice:
 
 Sample Output:
 
-!\[Console Output](assets/output.png)
+!\[Console Output](./assets/output.png)
 
