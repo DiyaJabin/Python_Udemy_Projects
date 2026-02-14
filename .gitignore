@@ -15,3 +15,11 @@ Thumbs.db
 
 #ignore env files
 .env
+
+#ignore practice files
+practice.py
+interaction.py
+signing_up.py
+
+#ignore chrome profiles
+chrome_profile/
